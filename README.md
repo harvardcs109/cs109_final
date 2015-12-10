@@ -6,6 +6,7 @@ The README file must give an overview of what you are handing in: your project n
 Project Notebook:
 
 "Main.ipynb" is the project notebook that we hand in. It includes all the analysis we have conducted.
+It can be viewer here: [Main](http://nbviewer.ipython.org/github/harvardcs109/cs109_final/blob/master/Main.ipynb)
 
 Data:
 All the data are saved in the `raw_data` folder:
