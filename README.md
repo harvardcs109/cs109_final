@@ -7,11 +7,12 @@ Project Notebook:
 
 Data:
 All the data are saved in the `raw_data` folder:
-1. raw tweets data from Twitter Streaming API (saved in subfolder `data`)
+1. stop_word.txt: the list of stop words that we used in one LDA analysis.
 2. emoji-data.txt: the table of emoji and what each moji represents
 3. negative-words.txt: the list of negative words
 4. positive-words.txt: the list of positive words
-5. stop_word.txt: the list of stop words that we used in one LDA analysis.
+5. Raw data scrape from Twitter API can be found here:
+6. Working dataframe can be found here:
 
 Python Library:
 1. pytz: which allow use to convert time to correct timezone. 
@@ -20,3 +21,9 @@ Python Library:
 4. tweepy: package that allows use to scrape twitter data
 5. xlrd: package that extracts data from Excel spreadsheets 
 6. nltk: Natural Language Toolkit
+
+Project websitres:
+http://thanksgivingontwitter.weebly.com/
+
+Project Screencaste:
+
