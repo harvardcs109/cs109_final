@@ -1,7 +1,7 @@
 # cs109_final
 Final project for Havard CS109
 
-The README file must give an overview of what you are handing in: your project notebook, any non-standard Python libraries you used, and so on. The README must contain URLs to your project websites and screencast videos.
+The README file gives an overview of what we are handing in: our project notebook, any non-standard Python libraries we used, and URLs to your project websites and screencast videos.
 
 Project Notebook:
 
@@ -21,6 +21,8 @@ All the data are saved in the `raw_data` folder:
 5. Raw data scrape from Twitter API can be found here: [Raw Data on Google Drive](https://drive.google.com/folderview?id=0Bw15O-0f5tbUV255T0JTbmJRTEE&usp=sharing)
 
 6. Working dataframe (`dftokens.csv,dftweets.csv`) can be found here: [Raw Data on Google Drive](https://drive.google.com/folderview?id=0Bw15O-0f5tbUV255T0JTbmJRTEE&usp=sharing)
+
+7. `dftokens.xls` is processed data for LDA I analysis. 
 
 Python Library:
 
