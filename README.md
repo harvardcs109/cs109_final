@@ -1,7 +1,7 @@
 # cs109_final
 Final project for Havard CS109
 
-The README file gives an overview of what we are handing in: our project notebook, any non-standard Python libraries we used, and URLs to your project websites and screencast videos.
+The README file gives an overview of what we are handing in: our project notebook, any non-standard Python libraries we used, and URLs to our project websites and screencast videos.
 
 Project Notebook:
 
