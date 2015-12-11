@@ -18,9 +18,9 @@ All the data are saved in the `raw_data` folder:
 
 4. positive-words.txt: the list of positive words
 
-5. Raw data scrape from Twitter API can be found here:
+5. Raw data scrape from Twitter API can be found here: [Raw Data on Google Drive](https://drive.google.com/folderview?id=0Bw15O-0f5tbUV255T0JTbmJRTEE&usp=sharing)
 
-6. Working dataframe can be found here:
+6. Working dataframe (`dftokens.csv,dftweets.csv`) can be found here: [Raw Data on Google Drive](https://drive.google.com/folderview?id=0Bw15O-0f5tbUV255T0JTbmJRTEE&usp=sharing)
 
 Python Library:
 
